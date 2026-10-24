@@ -68,6 +68,7 @@ AMV editing has been a craft for 25+ years — from Premiere and Sony Vegas in t
 
 ## Communities
 
+- **[Kaidomi](https://kaidomi.com/en/discover/anime-edits)** — Browse credited anime edits and find the anime behind them. Free web browsing; a discovery/community resource, not a video editor.
 - **[r/AnimeMusicVideos](https://reddit.com/r/AnimeMusicVideos)** — 700k+ members, the main community.
 - **[AnimeMusicVideos.org](https://www.animemusicvideos.org)** — The legacy AMV community hub since 2000. Contest archive, profiles, the "Iron Chef" event.
 - **AMV Discord servers** — Several active, search "AMV editing" on Disboard.
